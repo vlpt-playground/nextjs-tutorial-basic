@@ -1,0 +1,1 @@
+[[Next.js 2.0] 간단한 React 전용 서버사이드 프레임워크, 기초부터 본격적으로 파보기](https://velopert.com/3293)
